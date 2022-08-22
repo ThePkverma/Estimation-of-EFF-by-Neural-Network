@@ -1,2 +1,2 @@
 # Estimation-of-Inverse Kinematic Solution by Three Layers Neural Network
-Estimation of points of three link spatial robotic arm by neural network and prediction of angle and cartesian points
+Creating the dataset by forword kinematic and trained the model for the inverse kinematic model
